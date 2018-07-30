@@ -1,0 +1,5 @@
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\BinaryGap\TestBinaryGap\bin\Debug\TestBinaryGap.dll
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\BinaryGap\TestBinaryGap\bin\Debug\TestBinaryGap.pdb
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\BinaryGap\TestBinaryGap\obj\Debug\TestBinaryGap.csprojResolveAssemblyReference.cache
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\BinaryGap\TestBinaryGap\obj\Debug\TestBinaryGap.dll
+C:\Users\Vando.Moreira\Documents\Visual Studio 2010\Projects\BinaryGap\TestBinaryGap\obj\Debug\TestBinaryGap.pdb
